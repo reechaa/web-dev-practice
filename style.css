@@ -1,0 +1,8 @@
+.big-red {
+    font-size: 40px;
+    color: red;
+}
+.dark {
+    background-color: rgb(0,0,0.5);
+    color: #eee;
+}
